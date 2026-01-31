@@ -1,5 +1,4 @@
-# AL digital agency
-<!DOCTYPE html>
+# AL Digital Agency
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
