@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AL Digital Agency</title>
   <meta name="description" content="AL Digital Agency helps businesses grow online through smart digital marketing, branding, and strategy." />
   <style>
     body {
